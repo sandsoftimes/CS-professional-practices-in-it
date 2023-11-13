@@ -1,0 +1,1038 @@
+786!!!!
+
+Professional Practices In IT:
+
+Degree Programs:
+
+	-Computer Science
+	
+	-Software Engineering
+	
+	-Information technology
+	
+	-Computer Science: 
+		
+		-Develop ways to solve computation problems, e.g store data, send data, display data e.t.c with best performance (using algorithms)
+		
+		-Develop new ways to used computer and make them do new things
+		
+		-Design and develop software systems
+		
+		Theory-Model-Designing-Implementation-Testing-Verification
+		
+	-Software Engineering:
+		
+		-Develop and maintain reliable software systems
+		
+		-provide software development practices 
+		
+		-intergrate computer science with engineering discipline
+		
+	-Information technology:
+	
+		-use technology to meet demands of businesses, government,health-care,schools, and other organizations
+		
+		-administration and configuration of systems 
+		
+		-installation and maintenance
+		
+		-use and manage databases, e-gorvernance and e-commerce portals,digital voice and multimedia communications 
+		
+Computer Based Degree Programs:
+
+	-Software Engineering 
+	
+	-Information Technology
+	
+	-Computer Science
+	
+	-Computer Engineering 
+	
+	-Bio-Infromatics
+	
+Degrees Programs:
+
+	-BS
+	
+	-MS
+	
+	-PHD 
+	
+	-BE 
+		
+Why professional issues in IT?
+
+	-Computing key factor now a days
+	
+	-So due to its rapid growth, advancement and contribution in almost every sectors. People used to face alot of issue related to it.
+	
+	-Majority of universites in Pakistan that offer above degree programs do not have any course which covers: 
+	
+		-Laws Related To Computing in Pakistan/Abroad
+		
+		-Computing Ethics in general
+		
+		-CS-based professional ethics in general 
+	
+	-The reason why professional issues occur in IT is that this is contradictory to other 	professions like medicine where a course related to this information(ethics) does exits.
+	
+CS/IT ethics are on rapid increase in books after the year of 2005
+
+Consequence of professional issues in IT:
+
+	-computer/it/software sector important for mission-critical applications(Money+Life/Death involved here)
+	
+	-something goes wrong,who to blame???
+	
+	-developed contries vigorously follow laws/standards/ethics e.t.c related to computing
+	
+	-professionals working in CS/IT with no knowledge of these aspects risk the chance of jobs, or procurement of contracts in developed contries.
+	
+BS DEGREE BREAKDOWN IN 2004:
+
+	-Core Areas
+	
+	-supporting areas
+	
+	-general areas:(Professional Ethics lie in this area)
+	
+	-electives
+	
+	-project
+	
+Weird Laws:
+
+	-Law of Recursion: understand recursion first
+	
+	-brook's law: adding more man power to a late software project makes it more late
+	
+		-reason: 1-new people must become educated with the project before actually working on it 
+			 2-Communication over-head increases
+			 
+	-Law of Credibility or 99% rule:
+	
+		-1st 90 percent of code accounts for 10 percent of development time.
+		
+		-remaining 10 perecent of code accounts for remaining 90 percent of development time
+		
+		-Quotation:"Project donot complete on time"
+		
+	-1 % rule: 
+		
+		-only 1 percent of users on a collaborative website actively create new content. 
+		
+		-remaining 99 percent only lurk
+		
+		-1-9-90
+		
+		-1 percent creators, 9 percent contributers, 90 percent lurkers
+	
+	-Paretto's principle:
+	
+		-20 percent of group will produce 80 percent of activity 
+		
+		-applied in marketing: 80 percent sales obtained from 20 percent of clients 
+		
+	-Wirth's Law: 
+	
+		-software gets slower faster than hardware gets faster
+		
+	-Gate's law:
+		
+		-speed of software halves every 18 months (bill gates)
+		
+	-Moor'es Law: Hardware gets faster every 18 months 
+	
+	-Many More Laws:.....
+	
+LAWS:
+
+	-we as a computer scientist should know the core computing laws mainly but having the knowledge of side laws as well is also necessary for us 
+	
+Law: A set of rules that can be enforced in court
+
+	-varies from country to country 
+	
+	-Related to IT:
+	
+		-data protection laws(controlling rouge markets)
+		
+		-right to access of information laws 
+		
+		-laws for the misuse of computers
+		
+BROAD CLASSIFICATION of Laws:
+
+	-Crimianl Laws
+	
+	-Civial Laws
+	
+	-Criminal Laws:
+	
+		-punishment of wrong-doers using fines or imprisonment 
+		
+	-Civial Laws:
+	
+		- Settlementws of disputes between people,victims can be compensated
+		
+Criminal Law:
+
+	-What is a crime?
+	
+	-society/government decides.
+	
+		-murder,assault,narcotics,fraud,money laundering,customs,domestic violence,physical abuse,kidnapping e.t.c
+		
+	-mechanism to determine whether person guilty of crime is guilty/not guilty 
+		
+		-Pakistan penal code is decide this thing
+		
+	-range of punishments that can be awarded:
+	
+		-qisas,diyat,death,life,property confiscation,imprisonment,fine .e.t.c
+
+Criminal Law: How it works:
+
+	-crime discovery by police or reported by witness
+	
+	-evidence collection by police for courts
+	
+	-state starts proceedings for prosecution of accused/defendant
+	
+	-If found guilty, accused will be sentenced
+
+Criminal Law: Other important aspects:
+
+	-criminal dis-advantaged:
+	
+		-a criminal is innocent until proven guility, but society may think otherwise
+		
+		-penalty should be sufficient to discourage others. How much is sufficinet?
+		
+		-Keep criminals away from public:But what can be done after they finsih their sentences
+		
+		-Rehabilation:Reforming criminals during sentence/jail-term:if a criminal is institutionally rehabilitated (in jail),should society accept them?Will the victim families accept that he is reformed?	
+		
+ALL the above are the ethical issues in legal prespective 
+
+Civil Law:
+
+	-resolution of disputes b/w people 
+	
+	-resouiltion of disputes b/w companise/organizations after they are incoporated
+	
+	Terminologies:
+	
+		-Plaintiff: Person who feels he is wronged moves court 
+		
+		Example: person a sues person b 
+		
+		Example: person A files shufa against person b
+		
+		-Litigation: court preceedings ensued after court is moved 
+		
+	-Other applicable areas: banking,business,company ,consitution,corporate,insurance,labour ,scucession,tax
+	
+Concept of standard of proof vs burden of proof:
+
+	-standard of proof: 
+	
+		-in criminal law: prosecution must demonstrate that an accused is guilty (using witness, forensic e.t.c)
+		
+		-in civil law: plaintiff merely claims that the other party is guilty
+		
+	-burden of proof:
+	
+		-criminal law:burden of presenting proof lies on prosectuion 
+		-defendant is innocent until proven gulity 
+		
+		-civil law: both plaintiff and defendant have the burden of presenting proof
+	
+Example of crimes involving CS/IT (Cyber Crimes)
+
+	-mobile credit/credit card/atm fraud
+	
+	-threatening calls through mobile phones
+	
+	-ip/email address tracing (by non-govt persons)
+	
+	-threatening/abusive emails
+	
+	-hacking related attacks,website defacements
+	
+	-email scams,sms scams
+	
+	-electronic money laundering(paypal???)
+	
+	-pornography,gambling,virus/worm attacks,internet time theft e.t.c
+	
+	-anything else??
+	
+Importatn cyber crimes laws in pakistan:
+
+	-telegraph act
+	
+	-wireless telegraph act
+	
+	-federal investigaton agency act
+	
+	-paksitan telecommunication act
+	
+	-electronic transcation act
+	
+	-electronic crimes ordinance 
+	
+	-payments and electronic fund transfer act
+	
+Application areas of electronic transaction act:
+
+	-criminal access to data/computers
+	
+	-data/system damage
+	
+	-electronic fraud/forgery
+	
+	-encryption mis-use
+	
+	-cyber stalking
+	
+	-virus propagation
+	
+	-spamming/spoofing
+	
+	-cyber terrorism
+	
+FAMOUS Cyber Criminals:
+
+	-Amjad and Basit Farooq alvi created a first virus on dos. called as brain virus
+	
+CyberCrime: How Stuxnet work:
+
+	-infection
+	
+	-search
+	
+	-update
+	
+	-compromise
+	
+	-control
+	
+	-decieve and destroy
+	
+Who Makes Law:
+
+	-National Assembly (Lower House) Legislation Types:
+	
+		-government bills
+		
+		-private member bills
+		
+	-Provincial assembly legislation:
+	
+		-only if not in concurrent lists
+		
+Pakistan Process of passing a bill:
+
+	-bill intro
+	-refered to standing commitee
+	-considered by standing commitee
+	-standing commitee presents report before house
+	-first reading of bill(overivew)
+	-second reading of bill(clause of clause)
+	-third reading of bill (passing bill with 2/3 majority)
+	-transmit bill to upper house (senate)
+	-passing bill in upper houses with 2/3 majority
+	-get approval of president of pakistan
+	-bill become act part of consitution
+
+Other Countries Law making: UK:
+
+	-house of commns
+	-house of lords
+	
+	-Passing a bill:
+		
+		-government introduces bill in house of comms
+		-upon approval,passed to house of lords
+		-upon approval,become act of parliment
+		-passed to queen for final approval(queen cannot refuse), then becomes law
+Law Making is US:
+	
+	-legislation passes through senate, then forward to congress
+	-legislation debated in congress, then passed to president for approval
+	-president gives final approval,but has vito rights
+		:-:SupremeCourt: can veto law passed by congress+president if it is UN-Consitutioal
+		
+Profession:
+
+	-priest
+	-law officer
+	-policenan
+	-teacher
+	-doctor e.t.c
+	
+professional footballer:
+	
+	-earn dollars
+
+professional employee:
+
+	-put intreset of organization above self
+	-others:just paid employees
+	-organization can rely on them to work competently
+	
+professional work:
+
+	-work that satisfise established criteria of quality
+
+Professions example:
+
+	-doctor
+	
+	-engineer
+	
+profession in eyes of pakistani society:
+	
+	-engineer
+	-doctor
+	-css
+	
+	To achieve:
+	
+		-income lvl
+		 
+		-power 
+		
+Professiona Elseware:
+	
+	-police
+	
+	-nurse
+	
+	-lawyers
+	
+	-teachers
+	
+	e.t.c
+	
+Socail gratification:
+
+	-grouping of people into herarchical social categories
+	
+	-upper class:wealty,powerful
+	
+	-middle class:mangers,workers, white collar jobs
+	
+	-lower class:daily wagers, blue collar jobs
+	
+Higher class want to maintian their status
+
+Lower class want to change their lifes so they doctors and engineers as professions/career options
+
+What makes a professional:
+
+	-Degree
+	
+Professional Bodies:
+
+	-how it's formed?
+	
+	-started by group of people of profession comming together formally
+	
+	-why is it formed?
+	
+	-to protect business and work environment from non-professionals i.e quacks
+	
+	-quacks: who donot have proper knowledge or may practice dis-honestly
+	
+	-Examples of professional bodies in UK:
+	
+	-british  computer society
+	
+	-institute of electrical engineers
+	
+	-Examples of professional bodies in Pakistan:
+	
+	-Pakistan engineering council
+	
+	-Pakistan engineering congress
+	
+Pakistan Engineering Council:
+
+	-federal institure
+	
+	-functions:
+	
+		-regulations and registration of professional engineers, chartered engineers and technicians
+		
+		-accreditation of degree programs
+		
+		-rules for industry
+		
+	-Areas covered by PEC:
+	
+		-Applied Sciences
+		
+		-Computing Engineering
+		
+		-Engineering Technologies
+		
+NCEAC: National computing education accreditation council:
+
+	-Main functions:
+	
+		-accreditation of institues teachine computer science related courses
+		
+		-define organization objectives, functions, duties
+		
+		-monitorting computing science teaching institutes of pakistan
+		
+		-no regulations yet defined for industry
+
+General functions of professional bodies:
+
+	-establisment of code of conduct
+	
+	-organizing seminars, knowledge related events
+	
+	-set educational standards
+	
+		-accreditation 
+		
+		-member grades and their promotion system
+		
+		-career counseliing for its members
+		
+		-providng job related informations
+		
+		-advising governmnent for improvement of filed that are lagging behind
+
+Code of Conduct
+
+Doctors Oath
+
+Membership Grades:
+
+	-define expertise levels of members
+	
+	-In pakistan membership grades are defined by PEC
+	
+	-In UK membership grades are defined by Engineering Council UK
+	
+Registration Types Of Engineer:
+
+	-Chartered Engineer:
+		
+		-develop solutions to engineering problems using new or existing technlogies
+		
+		-be innovative and creative
+		
+		-introduce new and efficient production techniques
+		
+		-introduce new and efficient marketing techniques
+	
+	-Professional Engineer:
+	
+		-design and develop solutions using existing technologies
+		
+		-operation/maintence of products,equipments e.t.c
+		
+Titles of Engineer:
+
+	It's crime to call yourself engineer if not registered to PEC
+	
+Perks of Registered Engineers:
+
+	-Audits can be performed by registered chartered accounts only
+	
+	-registered engineers can only take engineering relatead projects
+	
+Title of Eng/Doc is strictly to be used by respective bodies in Asia and Eurpe while Uk is lax with its use
+
+Status of engineer:
+
+	-illegal to call yourself engineer if not resgistered
+	
+	-not allowed to call engineer if u are no longer connected to engineering association
+	
+	-illegal for companise to use engineer if:
+	
+		-not registered with engineering body PEC (PEC ruke)
+		
+		-if it does not have 2 registered emploes (PEC rule)
+		
+	-Engineering subjects must be taught by registered engineers- PEC RUle
+	
+	-illegal to carry out engineering work if not carried out under the supervision of registered engineer-PEC rule
+	
+Pakistan Software Export Promotion Bureau
+
+	-apex government body
+	
+	-falls under ministry of science and technology
+	
+	Purpose:
+	
+		-promotion of it sector in local and internaltional markets
+		
+	Functions:
+	
+		-internship facilitations 
+		
+		-incubation programs
+		
+		-company certifications
+		
+		-it parks
+		
+Types of Engineering:
+
+	-chemical(material,textile)
+	
+	-civili(environmental,geo-technicaal, structure, transport)
+	
+	-electrical(computer,electronics,power)
+	
+	-mechanical(manufacturing,thermal,industrial)
+	
+Software Engineering as a engineering discipline:
+
+	-software engineering and information systems are now accepted as branch of engineering
+	
+	-What before?
+	
+		-engineering is synonymous with building" dams, bridges, airplanes,car,radios e.t.c
+		
+		-key features of building process:
+		
+			-design and testing of object that is built
+			
+			-completing task in time
+			
+		-building process is not shtared by other fields e.g doctors,medicine,accounting,etc
+		
+		-this building thing is now shared by software engineering that is why software engineering is now included in engineering
+		
+Software engineering as discipline:
+
+	-unversity of texas by law don't allow courses in software engineering by law
+	
+	-critisim: software engineering don't describe:
+	
+		-materials and methods they use
+		
+		-metrices  that define their work(code is a metric but this metric don't have physical existing like the materials)
+		
+LONDON Ambulance System(LAS):
+
+	-Computerized dispatch system project 
+	
+	-7.5 million spent
+	
+	-Duties:
+		
+		-ambulance location system 
+		
+		-automatic ambulance allocation
+		
+		-mapping software (no google maps at that time)
+		
+		-centralized command/control system
+		
+	-Failure:
+	
+		failed after just 9 days due to software errors,written by non-regulated software developers
+		
+	-Recomendations:
+	
+		-compulsory registrration of software engineers
+		
+		-legislation which ensurse software development carried out under supervision of registered SE
+		
+		-design and control of critical systems should be under control of registered and software charetered engineer
+		
+	-Consuequenecs of recommendation:
+	
+		-recommendatin 1 and 3 accepted 
+		-recommendation 2 not accepted 
+		
+Software Engineering as an engineering discipline in Pakistan:
+
+	-PEC accepts
+		
+		-bachelors of software engineering
+		
+		-bacherlors of computer engineering
+		
+		-bachelor of computer engineering from following is recognized as engineering degree by PEC
+		
+			-FAST NU Karachi
+			
+			-FAST NU Lahore
+			
+International Recognition of Engineering Qualifications:
+
+	-Europe Mobility Directives:Get qualified in 1 country, practice in any european country
+	
+	-USA: Washignton Accord: recogniae the qualification from germany, australia e.t.c
+	
+	-Pakistan: PEC: Recognize the foreign engineering programs that are listed on 2nd schedule
+	
+Are Engineers terrorist?
+	
+	-People who are with degreee engineering are most commonly involved in terrorist attacks
+	
+	-Electrical and computer engineers are most likely to involve in terrorism acts
+	
+IEEE Institute of Electrical and Electronic Engineers (IEEE)
+
+	-POSIX standard was introduced by IEEE
+	
+	-areas of experties of IEEE:
+	
+		-CS
+		
+		-Mechanical engineering
+		
+		-civil engineering
+		
+		-biology
+		
+		-physics
+		
+		-mathematics
+		
+	-Membership Grades:
+	
+		-students
+		
+		-members(professional members with degrees)
+		
+		-senior members(got this position after producing 3 letter of recommendations from other seniors)
+		
+		-Fellow Members(Highest grade, only nominated by other)
+		
+ACM Association for computing and machineary:
+
+	-chapters (student/professional)
+	
+	-digital library
+	
+	-publications/journals
+	
+	-conferences
+	
+	-career resources
+	
+Others associations are also there that are working in various fields and producing quality work for the ease of humanity (e.g Italian association for informatics and automatic computation)
+
+Organizations Overview:
+
+	-All around us
+	
+	-must have a legal existence
+	
+	-types of organizations:
+	
+		-commercial
+		
+		-public
+		
+		-non-profit
+		
+	-Commercial: 	
+	
+		-sole trader
+		
+		-partnership or association 
+		
+		-coopertaion
+		
+		-limited company
+		
+			-private limited 
+			
+			-public limited
+			
+	-Non-profit:
+	
+		-trust
+		
+		-foundation
+		
+		-ngo
+		
+		-charity
+		
+	-Public Sector organization:
+		
+		-universities
+		
+		-schools
+		
+		-banks
+		
+		-software houses
+		
+Commerical Organizations: Sole Trader
+
+	-single individual
+	
+	-registered with income tax, excise and customs
+	
+	-personal liability for all debts of busnisess
+	
+		-if suffers losses,risks his own assets, possibly his home and other "real estate"
+
+Commercial Organizations: Parternship
+	
+	-group of people contribute to business
+	
+	-each partner has "shares" in the company
+	
+	-partnership "terms" as defined under the partnership act of 1932
+	
+	-What about liabilities?
+	
+	-Liability is the state of being responsible for something
+	
+Commercail Organizations: Partnership liabilities: Scenario
+
+	-You and your friend are working on a software 
+	-your friend is doing majority of the work and you are doing very less work
+	-you and your friend decides taht he will take majority of the money as he is contributing mainly 
+	-unfortunaetely the software don't work
+	-the company for which u both were working claims the damage
+	-u two both have to pay for the damage now
+	-u have the house and car but your friend has no money
+	-the company sues you and claim the entire amount of the damage from you. Is it legally possible. (Yes btw)
+	-Yes partners are jointly and severally responsible for the partnership liablilities
+	
+		-liability of a partner for acts of the firm: Every partner is liable, jointly with all the other partners and also severally, for all acts of the firm done while he is a partner
+		
+		-WrongfulActsOfAPArtner
+		-Liability of the firm for wrongful acts of a partner: by the wrongful act of a partner acting in the ordinary course of the business of a firm, loss or injury is caused to any third party, the firm is liable therefore to the same extent as the partner.
+		
+Commercial Organization: Partership Liabilities: Other Factors
+
+	-One partner wishes to leave partnership (retiring)
+	
+	-How much money is he entitled to have?
+	
+	-How are the liabilities going to be distributed?
+	
+	Rules:
+	
+		-Retirement should only be consent (pr by giving notice)
+		
+		-Retiree will still be liable to claims along with former partners
+		
+		-retiree may be discharged from 3rd party liability claims by signing an agreement with the 3rd party as well as new partners.
+		
+		-Partner is Expelled?
+		
+		-Partner cannot be expelled unless expulsion clauses are clearly mentioned in partnership agreement. If so, public notice must be given.
+		
+Commercial Organizations: Partnerships
+
+	-who enters partnership?
+	
+	-small businesses
+	
+	-startups
+	
+	-professional bodies recommend partnership company for both small businesses and start-ups
+	
+		-liability law discourages recklessness
+	
+	-usually found in organizations practicing law,Medicine
+
+Commercial organizations: Cooperations
+
+	-Association of people who vouluntarily cooperate for mutal,social and economic and cultural benefit. (Business intrest placed before profit. if interest is served, profit will follow) 
+	
+	-community organizations:
+	
+		-consumer cooperations: company managed by people who use it's services
+		
+		-worker cooperations: managed by people who work there
+		
+		-housing cooperations: managed by people who live there
+		
+Trust/Foundations/NGO/Charities:
+
+	-charity: established for humatraian purposes(profit used for furthering charitable causes)
+	-It has tax exemption
+
+	-NGO:
+
+	-can be used for social welfare
+	
+	-can be welfare,trust or foundation,charity
+	
+	-TRUST:
+	
+	-A transfers assests to B (B==trustee)
+	
+	-B will manage assets in favour of beneficiary and/or A
+	
+	-Foundation:
+	
+	-Donate funds or provide suport to other organizations
+	
+	-arrange source of funding for it's own charitable purposes
+	
+	-e.g Fauji foundation=commercial revenue direct to the welfare of ex-army officers
+
+LIMITED COMPANY:
+	
+	-most common commercial organization type
+	
+	-3 defining aspects
+		
+		-legal identity through legal person
+		
+		-ownership of company divided into number of shares(shareholders)
+		
+		-If company faces debt/or legal liability, owners have no obligation to pay, atmost he will lose his financial shares only
+		
+Limited COmpany Types:
+
+	-public:offer its shares to general public
+	
+	-private
+	
+	-Limited companies are registered under companies ordinance 1984
+	
+Liability:
+
+	-I am liable to pay xyz an amount of 100 rupees
+	
+	-Bank loan: liable to pay back with intrest
+	
+	-Taxes: liable to pay to government every year
+	
+Liability is limited to what members invest (shares), or what members guarantee to pay if company is liquidated 
+
+Limited Company:
+
+United states call the large limited comapny as CORPORATION
+
+Company has some obligations:
+
+	-provide its working details to registration authority
+	
+	-produce annual account reports
+	
+	-produce annual audit reports
+
+Registration of a limited company:
+
+	-Registration = incoportaion(company ordinance 1984)
+	
+	-Security and Exchange commision of Pakistan performs incooperation/registration
+	
+Registration of a limited company:
+
+	-name availability certificate(appropiate name=askrai,federal,uno e.t.c)
+	
+	-incooperation fees (registration fees)
+	
+	-prepare consitution (memorandum of associtaion+article of association)
+	
+	-Deposit application pack with company law division, SECP
+
+	-share holder agreement (private document for members only)
+	
+Consitution of a Limited Company:
+
+	-consists of 2 documents
+	
+		-Memorandum of association 
+		
+		-article of association
+		
+Example Document for starting IT Consultancy Company
+
+	-Name of company 
+	
+	-area of operation
+	
+	-objectives of the company
+	
+	-liability type(limited by share/gurantee)
+	
+	-maximum share capital+total shares+cost/share
+	
+	-Declaration of association
+	
+	-share distribution and particulars
+	
+	-witnesses
+
+Article of Association:
+	
+	-what to do when new shares are issued
+	
+	-no of directors
+	
+	-share allocation 
+	
+	-other information
+	
+	-witnesses
+	
+Other Documentation:
+
+	-Get own letter head/business card
+	
+	-registration with income tax department (to obtain NTN number)(National Tax Number)
+	
+	-if software house, register with Pakistan Software Export Board(PSEB)
+
+NTN Certificate
+
+Benefits of registration with PSEB:
+
+	-Tax exemption on export of IT service
+	
+	-Voip traffic legalized 
+	
+	-credibility in international market
+	
+	-subsidized internation certifications
+	
+	-Incubation programs
+	
+	-visa facilitation
+	
+What do we need to register with PSEB
+
+	-registration form
+	
+	-company profile
+	
+	-company letter-head
+	
+	-ntn certification
+	
+	-cnic of director,shareholder,partner
+	
+	-copies of:
+	
+		-memordium of association
+		
+		-article of association
+		
+		-incoopertion certificate
+		
+	-6 month bank statement
+	
+	-10,000
+	
+Exercise:
+
+	-What type of company would u need for the following scenarios?
+	
+	
